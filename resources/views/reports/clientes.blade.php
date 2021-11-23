@@ -9,7 +9,7 @@
 <body>
     <h2 style="text-align: center">Relatorio de clientes</h2>
     <hr>
-    <table border="1" style="width: 100%">
+    <table border="1"  style="width: 100%">
         <thead>
             <tr>
                 <th>Código</th>
